@@ -1,2 +1,3 @@
-# psychic-enigma
-팩맨(Pac-Man) 게임 임시 저장소
+# Python 게임 저장소 powered by Gemini
+* 팩맨 게임
+* 스네이크 게임
