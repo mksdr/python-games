@@ -3,3 +3,4 @@
 * 팩맨 게임 2.0 (pygame)
 * 스네이크 게임 (pygame)
 * 스네이크 게임 2.0 (pygame)
+* 점프킹 (pygame)
